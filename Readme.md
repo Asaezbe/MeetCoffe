@@ -1,6 +1,6 @@
 # Meet & Coffee
 
-**Meet & Coffee** Es un proyecto web, diseñado para mostrar los ocnocimientos adquiridos en el **bootcamp de desarrollo front-end en talento digital.**
+**Meet & Coffee** Es un proyecto web, diseñado para mostrar los conocimientos adquiridos en el **bootcamp de desarrollo front-end en talento digital.**
 
 ## Tabla de contenidos 
 - Descripcion
